@@ -6,7 +6,19 @@
 
 *I like understanding how things work — and building things to find out.*
 
-[GitHub](https://github.com/Nandhida) · [My Projects](https://github.com/Nandhida?tab=repositories)
+<div align="center">
+
+<a href="https://github.com/Nandhida">
+  <img src="https://img.shields.io/badge/GitHub-C8B8E8?style=for-the-badge&logo=github&logoColor=3B3155" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/nandhidakavi-a-l">
+  <img src="https://img.shields.io/badge/LinkedIn-D8C9F0?style=for-the-badge&logo=linkedin&logoColor=3B3155" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/Nandhida?tab=repositories">
+  <img src="https://img.shields.io/badge/Projects-E9DFF8?style=for-the-badge&logo=github&logoColor=3B3155" alt="Projects"/>
+</a>
+
+</div>
 
 </div>
 
@@ -37,7 +49,7 @@ Currently, I'm spending more time with **Python, backend development, APIs, and 
 
 A voice-based Parkinson's disease prediction project with a Flask application.
 
-[Take a look →](https://github.com/Nandhida/ParkiVox-Voice-based-Parkinson-s-Prediction.git)
+[Take a look →](https://github.com/Nandhida/ParkiVox-Voise-based-Parkinson-Prediction.git)
 
 </td>
 <td width="50%" valign="top">
