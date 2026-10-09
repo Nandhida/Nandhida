@@ -102,11 +102,11 @@ An expense-tracking project featuring data analysis, visualizations, and predict
 <div align="center">
 
 <a href="https://github.com/Nandhida">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Nandhida&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Nandhida&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics"/>
 </a>
 
 <a href="https://github.com/Nandhida">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nandhida&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nandhida&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages"/>
 </a>
 
 <br/><br/>
@@ -115,11 +115,7 @@ An expense-tracking project featuring data analysis, visualizations, and predict
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nandhida&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Contribution Activity Graph"/>
-
-<br/><br/>
-
-<img src="https://ghchart.rshah.org/0891b2/Nandhida" width="100%" alt="GitHub Contributions Calendar"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nandhida&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Activity Graph"/>
 
 </div>
 
