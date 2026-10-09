@@ -65,7 +65,7 @@ A voice-based Parkinson's disease prediction system using voice features, with a
 
 **Tech:** Python · Flask · Machine Learning
 
-[🔗 View Repository](https://github.com/Nandhida/ParkiVox-Voice-based-Parkinson-s-Prediction)
+[🔗 View Repository](https://github.com/Nandhida/ParkiVox-Voise-based-Parkinson-Prediction.git)
 
 </td>
 <td width="50%" valign="top">
