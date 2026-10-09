@@ -1,156 +1,180 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Nandhidakavi&fontSize=55&fontColor=ffffff&section=header" width="100%" alt="Nandhida Profile Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hey%2C%20I'm%20Nandhida!&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Curious%20mind.%20Code%20in%20progress.&descSize=16&descAlignY=60&color=0:9B8AC4,50:C8B8E8,100:E9DFF8" width="100%" alt="Lavender gradient banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Nandhida+%F0%9F%91%8B;Python+%7C+SQL+%7C+Software+Development;Learning+%7C+Building+%7C+Growing;Open+to+Entry-Level+Opportunities" alt="Animated Introduction"/>
+### AI & ML Graduate · Aspiring Software Engineer
 
-<br/>
+*I like understanding how things work — and building things to find out.*
 
-<img src="https://komarev.com/ghpvc/?username=Nandhida&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS" alt="Profile Views"/>
-
-<a href="https://github.com/Nandhida?tab=followers">
-<img src="https://img.shields.io/github/followers/Nandhida?style=for-the-badge&logo=github&color=7c3aed&label=FOLLOWERS" alt="Followers"/>
-</a>
-
-<a href="https://github.com/Nandhida?tab=repositories">
-<img src="https://img.shields.io/badge/Explore-My%20Repositories-0f766e?style=for-the-badge&logo=github" alt="Explore My Repositories"/>
-</a>
+[GitHub](https://github.com/Nandhida) · [My Projects](https://github.com/Nandhida?tab=repositories)
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+## 🌷 A little about me
 
-Hi! I'm **Nandhida**, a recent Artificial Intelligence and Machine Learning graduate looking to start my career in software development.
+Hey! I'm an AI & ML graduate exploring the world of software development, one project at a time.
 
-- 🎓 AI & ML graduate
-- 💻 Interested in Python, SQL, and backend development
-- 🛠️ Enjoy building practical projects and learning by doing
-- 🌱 Improving my programming and problem-solving skills
-- 🎯 Open to entry-level Software Developer and Python Developer roles
-- 📍 India
+I enjoy experimenting with ideas, figuring out why something isn't working (sometimes after staring at it for way too long 😅), and finally getting it to work.
 
----
+Currently, I'm spending more time with **Python, backend development, APIs, and AI/ML** — learning by building rather than just collecting tutorials.
 
-## 🧰 Tech Stack
-
-<div align="center">
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=python,mysql,javascript" alt="Python, MySQL and JavaScript"/>
-
-**Web Development**
-
-<img src="https://skillicons.dev/icons?i=html,css,flask" alt="HTML, CSS and Flask"/>
-
-**Libraries & Tools**
-
-<img src="https://skillicons.dev/icons?i=pandas,numpy,tensorflow,git,github,vscode,jupyter" alt="Libraries and Development Tools"/>
-
-</div>
+- 🧠 AI & ML is where my journey started.
+- 🐍 Python is my go-to language.
+- ⚙️ I'm exploring what happens behind the scenes of an application.
+- 🌱 Always learning something new, even when the bugs have other plans.
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Things I've been building
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 ParkiVox
+### 🩺 ParkiVox
 
-A voice-based Parkinson's disease prediction system using voice features, with a Flask backend and chatbot functionality.
+A voice-based Parkinson's disease prediction project with a Flask application.
 
-**Tech:** Python · Flask · Machine Learning
-
-[🔗 View Repository](https://github.com/Nandhida/ParkiVox-Voise-based-Parkinson-Prediction.git)
+[Take a look →](https://github.com/Nandhida/ParkiVox-Voice-based-Parkinson-s-Prediction.git)
 
 </td>
 <td width="50%" valign="top">
 
-### 👗 Color-Invariant Saree Design Recognition
+### 🎓 Student Exam Score Predictor
 
-A computer vision project focused on recognizing saree designs while reducing the effect of color variations.
+A machine learning project exploring how data can be used to predict student exam scores.
 
-**Tech:** Python · Computer Vision · ML
-
-[🔗 View Repository](https://github.com/Nandhida/Color-Invariant-Saree-Design-Recognition)
+[Take a look →](https://github.com/Nandhida/Student-Exam-Score-Predictor.git)
 
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top">
+<td width="50%" valign="top">
 
-### 💰 AI Expense Tracker
+### 🌿 Forest Fire Detection
 
-An expense-tracking project featuring data analysis, visualizations, and predictive features.
+A deep learning project focused on detecting forest fires using image-based analysis.
 
-**Tech:** Python · Tkinter · Data Analysis
+[Take a look →](https://github.com/Nandhida/Forest_Fire_Detection_DL.git)
 
-[🔗 Browse My Repositories](https://github.com/Nandhida?tab=repositories)
+</td>
+<td width="50%" valign="top">
+
+### 👤 Face Recognition Attendance System
+
+A project exploring face recognition to help automate attendance management.
+
+[Take a look →](https://github.com/Nandhida/Attendance-management-system-using-face-recognition.git)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌳 Karunada Vanya
+
+An Android application built with Kotlin and Jetpack Compose.
+
+[Take a look →](https://github.com/Nandhida/Karunada-Vanya.git)
 
 </td>
 </tr>
 </table>
 
 ---
-## 📊 GitHub Analytics
+
+## 🧰 Things I Work With
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-C8B8E8?style=for-the-badge&logo=python&logoColor=3B3155" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-D8C9F0?style=for-the-badge&logo=mysql&logoColor=3B3155" alt="SQL" />
+  <img src="https://img.shields.io/badge/HTML-E9DFF8?style=for-the-badge&logo=html5&logoColor=3B3155" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-C8B8E8?style=for-the-badge&logo=css3&logoColor=3B3155" alt="CSS" />
+  <img src="https://img.shields.io/badge/JavaScript-D8C9F0?style=for-the-badge&logo=javascript&logoColor=3B3155" alt="JavaScript" />
+</p>
+
+<p align="center">
+ <img src="https://img.shields.io/badge/TensorFlow-D8C9F0?style=for-the-badge&logo=tensorflow&logoColor=3B3155" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Pandas-C8B8E8?style=for-the-badge&logo=pandas&logoColor=3B3155" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-D8C9F0?style=for-the-badge&logo=numpy&logoColor=3B3155" alt="NumPy" />
+  <img src="https://img.shields.io/badge/OpenCV-E9DFF8?style=for-the-badge&logo=opencv&logoColor=3B3155" alt="OpenCV" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Flask-C8B8E8?style=for-the-badge&logo=flask&logoColor=3B3155" alt="Flask" />
+  <img src="https://img.shields.io/badge/Git-E9DFF8?style=for-the-badge&logo=git&logoColor=3B3155" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-C8B8E8?style=for-the-badge&logo=github&logoColor=3B3155" alt="GitHub" />
+</p>
+
+---
+
+## 🌱 Currently in my learning era
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+🐍
+
+**Python**
+
+Cleaner code & better logic
+
+</td>
+<td align="center" width="33%">
+
+⚙️
+
+**Backend**
+
+APIs, databases & how things connect
+
+</td>
+<td align="center" width="33%">
+
+🤖
+
+**AI / ML**
+
+Turning concepts into working projects
+
+</td>
+</tr>
+</table>
+
+*The goal isn't to know everything. It's to understand a little more than I did yesterday.*
+
+---
+
+## ☕ Outside the code editor
+
+Usually travelling, playing badminton, going for a drive, or watching a good movie or series.
+
+I appreciate a good plot twist — in stories, not in my Python traceback. 😭
+
+---
+
+## 📊 My GitHub corner
 
 <div align="center">
 
-### 📈 GitHub Statistics
+<img src="https://github-readme-stats.vercel.app/api?username=Nandhida&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="GitHub statistics"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nandhida&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most used languages"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Nandhida&show_icons=true&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Statistics"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nandhida&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Most Used Languages"/>
-
-<br/><br/>
-
-### 🔥 Contribution Streak
-
-<img src="https://streak-stats.demolab.com/?user=Nandhida&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Contribution Streak"/>
-
-<br/><br/>
-
-### 🌐 Contribution Activity
-
-<a href="https://github.com/Nandhida">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nandhida&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Contribution Activity Graph"/>
-</a>
+<img src="https://streak-stats.demolab.com?user=Nandhida&theme=tokyonight&hide_border=true" width="65%" alt="Contribution streak"/>
 
 </div>
 
 ---
 
-## 🎓 Certifications
-
-- 🐍 Python — Udemy
-- 📊 Data Analytics Job Simulation — Forage
-
----
-
-## 🤝 Let's Connect
-
 <div align="center">
 
-<a href="https://github.com/Nandhida">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
+### Glad you stopped by! ✨
 
-<!-- Replace the URL below with your actual LinkedIn profile URL -->
+Feel free to explore my projects. I'm still learning, still experimenting, and excited to see what I build next.
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<br/><br/>
-
-💼 **Open to entry-level software development opportunities**
-
-*Learning, building, and growing one project at a time.* ✨
+**One bug at a time. One project at a time.**
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0891B2,50:312E81,100:0F172A&section=footer" width="100%" alt="Decorative Footer"/>
