@@ -96,26 +96,29 @@ An expense-tracking project featuring data analysis, visualizations, and predict
 </table>
 
 ---
-
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<a href="https://github.com/Nandhida">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Nandhida&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics"/>
-</a>
+### 📈 GitHub Statistics
 
-<a href="https://github.com/Nandhida">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nandhida&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=Nandhida&show_icons=true&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Statistics"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nandhida&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Most Used Languages"/>
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=Nandhida&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+### 🔥 Contribution Streak
+
+<img src="https://streak-stats.demolab.com/?user=Nandhida&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Contribution Streak"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nandhida&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Activity Graph"/>
+### 🌐 Contribution Activity
+
+<a href="https://github.com/Nandhida">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nandhida&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Contribution Activity Graph"/>
+</a>
 
 </div>
 
